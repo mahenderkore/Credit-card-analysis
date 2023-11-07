@@ -7,12 +7,19 @@ In the world of finance, predicting good clients for credit card approval is a g
 **
 Approach:**
 🔍 Step 1: Define the Objective and Hypothesis
+
 📊 Step 2: Gather and Understand the Data
+
 🧹 Step 3: Cleanse and Pre-process the Data
+
 📈 Step 4: Dive Deep with Exploratory Data Analysis (EDA)
+
 🔬 Step 5: Put Hypotheses to the Test
+
 🔨 Step 6: Craft Ingenious Features
+
 🧠 Step 7: Build the Model
+
 
 **Findings:**
 The bank's main focus have to be on middle-aged working professionals to generate high revenue.
