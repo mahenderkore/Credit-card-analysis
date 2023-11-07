@@ -4,8 +4,8 @@ In the world of finance, predicting good clients for credit card approval is a g
 
 **Tools Used:**
 🐍 Python - Leveraging numpy, matplotlib, seaborn, and powerful machine learning algorithms to put our model to the test.
-**
-Approach:**
+
+**Approach:**
 🔍 Step 1: Define the Objective and Hypothesis
 
 📊 Step 2: Gather and Understand the Data
